@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henry Grosse
 - 👀 I’m interested in Data Science/Statistics
-- 🌱 I’m currently finishing my Master's Degree at ETH Zürich
+- 🌱 I currently hold a Master's Degree in Applied Mathematics from ETH Zürich
 - 📫 How to reach me: henry.grosse@bluewin.ch
 
 <!---
